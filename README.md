@@ -11,7 +11,7 @@
 - https://github.com/DigitalFuturesAda/Tuesday-Workshop-3-2A/blob/master/E2.cpp
 - https://repl.it/@B3GHU8/lwoercasesiht#main.cpp
 
-## Exercise 3: 
+## Exercise 3 Is Pallindrome: 
 **Code functions and runs as expected**
 - https://github.com/DigitalFuturesAda/Tuesday-Workshop-3-2A/blob/master/E3.cpp
 - https://repl.it/@B3GHU8/3-2A-E1-1#main.cpp
